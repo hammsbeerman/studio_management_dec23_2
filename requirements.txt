@@ -1,0 +1,14 @@
+django >=4.1<4.3
+#optional:
+#gunicorn
+#psycopg2-binary
+#django-dotenv
+#pint
+django-htmx
+#django-mptt
+#django-forms-dynamic
+django-widget-tweaks
+django-crispy-forms
+crispy-bootstrap5
+django-formtools
+
